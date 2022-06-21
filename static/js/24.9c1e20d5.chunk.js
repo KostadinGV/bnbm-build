@@ -1,0 +1,2 @@
+(this["webpackJsonpbnbm-frontend"]=this["webpackJsonpbnbm-frontend"]||[]).push([[24],{1748:function(n,t,b){"use strict";b.r(t);var e=b(964);b.d(t,"default",(function(){return e.b}))}}]);
+//# sourceMappingURL=24.9c1e20d5.chunk.js.map
